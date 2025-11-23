@@ -1,0 +1,14 @@
+/* ---------- Map ---------- */
+.map-view {
+  height: 400px;
+  background-color: #d0e6f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Overlapping with navigation bar */
+.content {
+  padding-top: 80px;
+}
+
